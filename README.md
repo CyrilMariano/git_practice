@@ -1,3 +1,3 @@
 # git_practice
 # Hello World 
-### Julianne Cyril S. Mariano
+### Julianne Cyril Sitchon Mariano
